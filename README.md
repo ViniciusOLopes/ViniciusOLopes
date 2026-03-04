@@ -1,5 +1,5 @@
-### Hi there i'm Vinicius Oliveira, I'm at university studying Computer Science. 
+### Hi there I'm Vinicius Oliveira, I'm at university studying Computer Science. 
 
-- 🌱 I’m currently learning Web programation.
+- 🌱 I’m currently learning Game design.
 - 😄 Pronouns: He/Him
 
