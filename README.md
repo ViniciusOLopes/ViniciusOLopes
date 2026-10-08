@@ -5,7 +5,7 @@
     </td>
     <td>
       
-  # Hi there, 🖐️ my name is Vinícius.
+  # 🖐️ Hi there, my name is Vinícius.
   
   * I'm a **Computer Science** student
       
