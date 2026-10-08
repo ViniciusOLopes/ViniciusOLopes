@@ -7,7 +7,8 @@
       
   # 🖐️ Hi there, my name is Vinícius.
   
-  * I'm a **Computer Science** student
+  * I'm a **Computer Science** student in IFG.
+  * I'm currently working in **IFG Information Technology Department**.  
       
     </td>
 </tr>
